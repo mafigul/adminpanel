@@ -1,0 +1,40 @@
+body {
+    background: url(../img/adminbg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+.container {
+    width: 600px;
+    margin: 10% auto;
+    background: #26ad24;
+}
+
+.signup-form{
+	
+	 background: #009688;
+    padding: 50px;
+}
+.signup-image{
+	
+}
+.form-control {
+    width: 100%;
+    height: 20px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.btn {
+    background-color: #00BCD4;
+    padding: 9px 23px;
+    border-radius: 10px;
+    text-transform: uppercase;
+	cursor:pointer;
+}
+.btn:hover{
+	
+	box-shadow:2px 4px 4px maroon;
+}
